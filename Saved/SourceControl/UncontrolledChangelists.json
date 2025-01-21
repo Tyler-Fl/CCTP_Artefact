@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/EpicGames/UE_5.3/UnrealProjects/CCTP_Artefact/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/EpicGames/UE_5.3/UnrealProjects/CCTP_Artefact/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/EpicGames/UE_5.3/UnrealProjects/CCTP_Artefact/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/EpicGames/UE_5.3/UnrealProjects/CCTP_Artefact/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/EpicGames/UE_5.3/UnrealProjects/CCTP_Artefact/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/SF/KHAG6FK3NQDAIMQ5IASH1G.uasset",
+				"D:/EpicGames/UE_5.3/UnrealProjects/CCTP_Artefact/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1L/29ZXPCIOGJ6ID1C2WTKB1V.uasset"
 			]
 		}
 	]
